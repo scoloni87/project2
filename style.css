@@ -1,0 +1,62 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+.menu-container {
+    display: flex;
+    justify-content: center;
+}
+
+.menu {
+    background-color: #1f2937;
+    color: #F9FAF8;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.links {
+    display: flex;
+}
+
+.menu-1,.menu-2,.menu-3 {
+    margin-left: 20px;
+}
+
+.header-container {
+    padding: 100px;
+    height: 200px;
+    background-color: #1f2937;
+    display: flex;
+    gap: 100px;
+} 
+
+.image-1 {
+    display: flex;
+    width: 300;
+    height: 200;
+}
+
+.awesome {
+    color: #F9FAF8;
+    font-size: 48px;
+    display: flex;
+    margin: 0;
+}
+
+.subtext {
+    display: flex;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.sign-up {
+    display: flex;
+    color: #F9FAF8;
+    padding: 7px 1em;
+    border-radius: 8px;
+    background-color: #3882F6;
+    width: 59px;
+}
